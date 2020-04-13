@@ -2,7 +2,7 @@
 		COMenum: enumerate Windows system for Component Object Model interfaces\n
 		 ++---++  / * -----------------------------------------------------------
 		 ||COM||    Usage: COMenum.exe <depth>\n"			
-		 ++---++    Authors: Daniel Bloom, Joshua Finley\n"
+		 ++---++    Authors: ..., Joshua Finley\n"
 		           ----------------------------------------------------------- *
 ```
 
